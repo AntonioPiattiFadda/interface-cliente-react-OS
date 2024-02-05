@@ -13,7 +13,7 @@ import { prettyDOM } from '@testing-library/react';
 test('Render component', () => {
   const element = {
     id: 18,
-    name: 'Merluza ',
+    name: 'Merluza 2',
     image:
       'https://res.cloudinary.com/dm8b2resp/image/upload/v1694697116/o1nsy3x43aq8srvcsiwe.png',
     description: 'Congelada por 100 gr',
